@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= "file:///Users/BM2/Downloads/Todo_app.mp4" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= "https://borismarin.imgur.com/all/?third_party=1" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
